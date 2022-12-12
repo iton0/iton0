@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning to code in Python, understanding Linux Bash, and Dockers
 - 💞️ I’m looking to collaborate on projects to gain pratical experience/knowledge and gain essential tech skills 
 - 📫 How to reach me: 
--        insta - it_cl0ud 
--        email - iton442@gmail.com
+-        Email - iton442@gmail.com
+-        LinkedIn - https://www.linkedin.com/in/itonuzi
 
 <!---
 iton0/iton0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
