@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iton0 but most people call me Ihsan 
+- 👋 Hi, I’m Ihsan Tonuzi 
 - 👀 I’m interested in the Cloud and cybersecurity, but definetely open to learning about different areas in tech
 - 🌱 I’m currently learning to code in Python, understanding Linux Bash, and Dockers
 - 💞️ I’m looking to collaborate on projects to gain pratical experience/knowledge and gain essential tech skills 
