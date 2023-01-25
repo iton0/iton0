@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ihsan Tonuzi 
 - 👀 I’m interested in the Cloud and cybersecurity, but definetely open to learning about different areas in tech
-- 🌱 I’m currently learning to code in Python & SQL, understanding Linux, and Docker
+- 🌱 I’m currently learning to code in Python, understanding Linux, and Docker
 - 💞️ I’m looking to collaborate on projects to gain pratical experience/knowledge and gain essential tech skills 
 - 📫 How to reach me (the last is my online portfolio): 
 -        iton442@gmail.com
