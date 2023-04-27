@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning to code in Python, understanding Linux, and Docker
 - 💞️ I’m looking to collaborate on projects to gain pratical experience/knowledge and gain essential tech skills 
 - 📫 How to reach me: 
--   Email    
+-   Email  
+
 iton442@gmail.com
 
 -   LinkedIn
