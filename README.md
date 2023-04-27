@@ -6,10 +6,12 @@
 -   Email    
 iton442@gmail.com
 
--   LinkedIn 
+-   LinkedIn
+
 www.linkedin.com/in/itonuzi
 
 -   Website
+
 iton0.github.io/
 
 <!---
