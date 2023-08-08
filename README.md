@@ -1,5 +1,5 @@
 ## 👋 Hi, my name is `Ihsan Tonuzi`
-### 👀 I'm interested in `software development/egineering` and open to learning similar fields
+### 👀 I'm interested in `software development/engineering` and open to learning similar fields
 ### 🌱 I'm attending further schooling to get an `AAS degree in Information Technology - Computer Programming Track`
 ### 💞️ I’m looking to `collaborate on projects` to gain knowledge and essential tech skills 
   ## 📫 *Contact me*: 
