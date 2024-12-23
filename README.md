@@ -1,8 +1,8 @@
 # 👋 Hi, my name is **`Ihsan Tonuzi`**
 
-### - 👀 I'm interested in **`software development/engineering`** and am open to learning similar fields.
+### - 👀 I'm interested in **`software development`** and am open to learning similar fields.
 ### - 🌱 I'm currently pursuing an **`AAS degree in Information Technology - Computer Programming Track`** (Expected May 2025).
-### - 📖 In my free time, I’m deepening my understanding of **`TCP/IP`** and the **`Go programming language`** to enhance my networking skills.
+### - 📖 In my free time, I’m deepening my understanding of the **`C programming language`** to enhance my foundational knowledge of computer science.
 ### - 💞️ I’m seeking **`apprenticeships and internships`** to gain essential tech knowledge and skills.
 ### - 📫 Contact me: **[iton442@gmail.com](mailto:iton442@gmail.com)**
 <!---
