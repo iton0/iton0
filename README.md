@@ -2,9 +2,7 @@
 
 ### - 👀 I'm interested in **`software development`** and **`problem-solving with software`**. 
 ### - 🌱 I recently finished a **`AAS degree in Information Technology - Computer Programming Track`**.
-<!---
-### - 📖 Lately I have been working on a progressive web app **`personal project written in Python/Django`**! 
---->
+### - 📖 Lately I have been reading up on **`neural networks`** and **`practicing my problem solving via Leetcode`**! 
 ### - 💞️ I’m seeking **`apprenticeships and internships`** to further my tech knowledge and skills.
 ### - 📫 Contact me: **[tonuzi.ihsan@gmail.com](mailto:tonuzi.ihsan@gmail.com)**
 <!---
