@@ -1,10 +1,8 @@
-# 👋 Hi, my name is **`Ihsan Tonuzi`**
+👋 I'm Ihsan Tonuzi, a software developer passionate about building efficient solutions and a recent graduate of the AAS in Information Technology - Computer Programming Track.
 
-### - 👀 I'm interested in **`software development`** and **`problem-solving with software`**. 
-### - 🌱 I recently finished a **`AAS degree in Information Technology - Computer Programming Track`**.
-### - 📖 Lately I have been reading up on **`neural networks`**, **`practicing my problem solving via Leetcode`**, and **`furthering my debugging skills`** ! 
-### - 💞️ I’m seeking **`apprenticeships and internships`** to further my tech knowledge and skills.
-### - 📫 Contact me: **[tonuzi.ihsan@gmail.com](mailto:tonuzi.ihsan@gmail.com)**
+I love solving problems with code and am constantly expanding my knowledge base. Lately, I've been diving into **neural networks**, honing my problem-solving skills on **Leetcode**, and exploring the foundational **mathematics of computer science**.
+
+🔭 I'm actively seeking **apprenticeships and internships** to apply my skills and grow as a developer.
 <!---
 iton0/iton0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
