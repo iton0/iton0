@@ -7,6 +7,3 @@ I love solving problems with code and am constantly expanding my knowledge base.
 iton0/iton0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
----
-
-⚙️ You can check out my **[dotfiles](https://codeberg.org/iton0/dotfiles)** for my personal development environment configurations.
