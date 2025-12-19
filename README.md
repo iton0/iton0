@@ -1,6 +1,6 @@
 👋 I'm Ihsan Tonuzi, a software developer passionate about building efficient solutions and a recent graduate of the AAS in Information Technology - Computer Programming Track.
 
-I love solving problems with code and am constantly expanding my knowledge base. Lately, I've been working on a distrbuted url shortening service to better understand API and system design.
+I love solving problems with code and am constantly expanding my knowledge base.
 
 🔭 I'm actively seeking **apprenticeships and internships** to apply my skills and grow as a developer.
 <!---
